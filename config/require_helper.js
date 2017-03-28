@@ -1,4 +1,8 @@
 var scripts = [
+  {
+    file: 'js/lib/jslegacy.js',
+    exports: ['BarLegacy']
+  }
 ];
 
 var fs = require('fs');
